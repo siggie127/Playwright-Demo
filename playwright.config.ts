@@ -1,7 +1,7 @@
 import { PlaywrightTestConfig } from "@playwright/test";
 
 const config : PlaywrightTestConfig = {
-    testMatch: ["tests/specs/ecommerceTests/regsiterUser.spec.ts"], 
+    testMatch: ["tests/specs/ecommerceTests/purchaseProduct.spec.ts"], 
 
     use:{
         headless:false,
