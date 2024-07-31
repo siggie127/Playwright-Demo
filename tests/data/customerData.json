@@ -1,0 +1,18 @@
+{
+    "user": {
+        "email": "test321@gmail.com",
+        "password": "1qaz@WSX@",
+        "firstname": "Shak",
+        "lastname": "Gun",
+        "telephone": "0480123123"
+    },
+    "address": {
+        "address1": "Jurassic Park",
+        "city": "Hollywood",
+        "postCode": "90210",
+        "country": "United States",
+        "state": "California"
+    }
+}
+
+
